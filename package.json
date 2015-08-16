@@ -19,8 +19,5 @@
     "play music",
     "google",
     "play"
-  ],
-  "dependencies": {
-    "radiant-node-applescript": "0.2.x"
-  }
+  ]
 }
