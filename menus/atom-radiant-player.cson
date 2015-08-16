@@ -1,0 +1,13 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Radiant Player'
+      'submenu': [
+        { 'label': 'Next Song', 'command': 'atom-radiant-player:next' }
+        { 'label': 'Previous Song', 'command': 'atom-radiant-player:previous' }
+        { 'label': 'Play Pause', 'command': 'atom-radiant-player:playPayse' }
+      ]
+    ]
+  }
+]

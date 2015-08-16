@@ -1,0 +1,26 @@
+{
+  "name": "atom-radiant-player",
+  "main": "./lib/atom-radiant-player",
+  "version": "0.0.1",
+  "description": "Displays the currently playing song in Radiant Player in Atom's status bar",
+  "repository": "https://github.com/therealgitcub/atom-radiant-player",
+  "os": [
+    "darwin"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "keywords": [
+      "radiant",
+      "radiant player",
+      "music",
+      "google play music",
+      "play music",
+      "google",
+      "play"
+  ],
+  "dependencies": {
+    "radiant-node-applescript": "0.2.x"
+  }
+}
