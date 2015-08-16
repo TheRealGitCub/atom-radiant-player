@@ -2,6 +2,8 @@
 
 Displays the currently playing song in Radiant Player in Atom's status bar.
 
+Created for Radiant Player ([Download](http://www.sajidanwar.me/radiant-player-mac/) | [Repo](https://github.com/kbhomes/radiant-player-mac))
+
 ![](http://i.imgur.com/IL1oo1M.png)
 
 Use the following key commands to control Radiant Player from inside Atom:
