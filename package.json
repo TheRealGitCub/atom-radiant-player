@@ -1,7 +1,7 @@
 {
   "name": "atom-radiant-player",
   "main": "./lib/atom-radiant-player",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Displays the currently playing song in Radiant Player in Atom's status bar",
   "repository": "https://github.com/therealgitcub/atom-radiant-player",
   "os": [
